@@ -50,7 +50,7 @@ Mental health is a global challenge. Employing machine learning to analyze behav
 - 📊 **Data Analysis:** Exploratory Data Analysis (EDA) on depression-related datasets to reveal trends and correlations.
 - 🧬 **Feature Engineering:** Extraction of behavioral, demographic, and survey-based features.
 - 🤖 **Model Building:** Implements classification and regression models (Logistic Regression, Random Forest, SVM, etc.).
-- 📈 **Performance Metrics:** Evaluates models with accuracy, precision, recall, F1 score, ROC curves, and more.
+- 📈 **Performance Metrics:** Evaluates models with accuracy, precision, recall, F1 score,
 - 🎯 **Prediction:** Predicts likelihood or severity of depression based on new/unseen data.
 - 🧪 **Interactive Notebooks:** All workflows documented in Jupyter Notebooks for reproducibility.
 - 🖼️ **Visualization:** Uses Matplotlib and Seaborn for meaningful data visualizations.
